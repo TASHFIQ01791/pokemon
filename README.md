@@ -30,17 +30,12 @@ A React-based Pokémon app that uses the [PokéAPI](https://pokeapi.co/) to fetc
 
 Here are some screenshots to give you a quick visual of the app:
 
-### 🔹 Homepage
-Displays a list of Pokémon with images and names.
-
-![Homepage](./screenshots/homepage.png)
-
 ---
 
 ### 🔹 Search Feature
 Search for Pokémon by name.
 
-![Search](./screenshots/Screenshot_1)
+![Search](./screenshots/Screenshot_1.png)
 
 ---
 
