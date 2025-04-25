@@ -1,12 +1,59 @@
-# React + Vite
+# 🧢 Pokemon App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Pokémon app that uses the [PokéAPI](https://pokeapi.co/) to fetch and display Pokémon data. Explore your favorite Pokémon, view detailed stats, and search for specific Pokémon in an easy-to-use interface.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [pokemon-api-react.netlify.app](https://pokemon-api-react.netlify.app/)  
+📂 **GitHub Repo**: [github.com/TASHFIQ01791/pokemon](https://github.com/TASHFIQ01791/pokemon)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 **Search Pokémon**: Find any Pokémon by name.
+- 📋 **List View**: Display a list of Pokémon with their images and basic info.
+- 📊 **Detailed View**: View detailed information like:
+  - Type(s)
+  - Abilities
+  - Base Stats (HP, Attack, Defense, etc.)
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ React
+- 📡 PokéAPI
+- 💅 CSS / React styling
+
+---
+
+## 📸 Screenshots
+
+Here are some screenshots to give you a quick visual of the app:
+
+### 🔹 Homepage
+Displays a list of Pokémon with images and names.
+
+![Homepage](./screenshots/homepage.png)
+
+---
+
+### 🔹 Search Feature
+Search for Pokémon by name.
+
+![Search](./screenshots/Screenshot_1)
+
+---
+
+### 🔹 Load More Option
+View detailed information like type, abilities, and stats.
+
+![Details](./screenshots/Screenshot_2.png)
+
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/TASHFIQ01791/pokemon.git
+cd pokemon
